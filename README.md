@@ -1,2 +1,2 @@
 # network-anomaly
-netwrok anomaly detection project
+network anomaly detection project
